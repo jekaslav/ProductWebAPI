@@ -41,7 +41,12 @@ public class ProductService : IProductService
             .AsNoTracking()
             .Where(x => x.Id == id)
             .FirstOrDefaultAsync(cancellationToken);
-
+        
+        if (product == null)
+        {
+            throw new Exception("Product not found");
+        }
+        
         var result = Mapper.Map<ProductDto>(product);
 
         return result;

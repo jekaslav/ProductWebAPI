@@ -41,7 +41,12 @@ public class CategoryService : ICategoryService
             .AsNoTracking()
             .Where(x => x.Id == id)
             .FirstOrDefaultAsync(cancellationToken);
-
+        
+        if (category == null)
+        {
+            throw new Exception("Category not found");
+        }
+        
         var result = Mapper.Map<CategoryDto>(category);
 
         return result;
