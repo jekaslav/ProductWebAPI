@@ -1,0 +1,14 @@
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\bin\Debug\net7.0\ProductWeb.Domain.deps.json
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\bin\Debug\net7.0\ProductWeb.Domain.runtimeconfig.json
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\bin\Debug\net7.0\ProductWeb.Domain.dll
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\bin\Debug\net7.0\ProductWeb.Domain.pdb
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\obj\Debug\net7.0\ProductWeb.Domain.csproj.AssemblyReference.cache
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\obj\Debug\net7.0\ProductWeb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\obj\Debug\net7.0\ProductWeb.Domain.AssemblyInfoInputs.cache
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\obj\Debug\net7.0\ProductWeb.Domain.AssemblyInfo.cs
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\obj\Debug\net7.0\ProductWeb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\obj\Debug\net7.0\ProductWeb.Domain.dll
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\obj\Debug\net7.0\refint\ProductWeb.Domain.dll
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\obj\Debug\net7.0\ProductWeb.Domain.pdb
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\obj\Debug\net7.0\ProductWeb.Domain.genruntimeconfig.cache
+C:\Users\Delor\RiderProjects\ProductWebAPI\ProductWeb.Domain\obj\Debug\net7.0\ref\ProductWeb.Domain.dll
